@@ -1,0 +1,17 @@
+{
+  "name": "crypto-helper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/igormontezano/crypto-helper.git",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^8.2.0"
+  },
+  "scripts": {
+    "dev": "nodemon ."
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
